@@ -1,7 +1,7 @@
-Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===============================
 
-> List of Awesome Hacking places, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists](https://github.com/sindresorhus/awesome) thing.
+> List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists](https://github.com/sindresorhus/awesome) thing.
 
 ## Index
 
@@ -63,6 +63,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Singapore 🇸🇬](#singapore-)
   - [Outram Park](#outram-park)
 - [Slovenia 🇸🇮](#slovenia-)
+- [South Korea 🇰🇷](#south-korea-)
+  - [Seoul](#seoul)
 - [Spain 🇪🇸](#spain-)
   - [Barcelona](#barcelona)
   - [Oviedo](#oviedo)
@@ -80,6 +82,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Arizona <a id="arizona"></a>](#arizona)
   - [California <a id="california"></a>](#california-)
     - [Los Angeles, CA <a id="los-angeles-ca"></a>](#los-angeles-ca-)
+    - [San Diego, CA <a id="san-diego-ca"></a>](#san-diego-ca-)
     - [Mountain View, CA <a id="mountain-view-ca"></a>](#mountain-view-ca-)
     - [Oakland, CA <a id="oakland-ca"></a>](#oakland-ca-)
     - [Palo Alto, CA <a id="palo-alto-ca"></a>](#palo-alto-ca-)
@@ -93,10 +96,14 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
     - [Boston, MA <a id="boston-ma"></a>](#boston-ma-)
     - [Cambridge, MA <a id="cambridge-ma"></a>](#cambridge-ma-)
     - [Somerville, MA <a id="somerville-ma"></a>](#somerville-ma-)
+  - [South Carolina <a id="south-carolina"></a>](#south-carolina-)
+    - [Columbia, SC <a id="columbia-sc"></a>](#columbia-sc-)
   - [Texas](#Texas)
     - [Austin, TX](#austin-tx)
   - [New York <a id="new-york"></a>](#new-york-)
     - [New York, NY <a id="new-york-ny"></a>](#new-york-ny-)
+  - [Virginia <a id="virginia"></a>](#virginia-)
+    - [Richmond, VA <a id="richmond-va"></a>](#richmond-va-)
   - [Washington <a id="washington"></a>](#washington-)
     - [Bellevue, WA <a id="bellevue-wa"></a>](#bellevue-wa-)
     - [Seattle, WA <a id="seattle-wa"></a>](#seattle-wa-)
@@ -490,7 +497,7 @@ Wifi | Power | Address | Open Hours
 #### Café Rossi
 
 > Next to the university; below the local hackspace
-> home-baked cake and pastries; 
+> home-baked cake and pastries;
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -787,7 +794,27 @@ Webpage: https://www.facebook.com/TEKTURAcafe/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Krupnicza 7, 33-332 Kraków](https://goo.gl/maps/UJ3uijZZAcA2) | Mon-Sun 10:00-21:00
+✔ | ✔ | [Krupnicza 7, 33-332 Kraków](https://goo.gl/maps/UJ3uijZZAcA2) | Mon-Sun 08:00-21:00
+
+#### Coffee Corner
+
+> Good coffee and tea, right in the middle of the main railway station. Can get busy but usually not very loud. Plenty of electrical plugs available.
+
+Webpage: http://www.coffeecorner.pl/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Pawia 5a, 31-154 Kraków](https://goo.gl/maps/XkhhquuUZ252) | Mon-Sun 05:00-22:00
+
+#### Spółdzielnia Ogniwo
+
+> Friendly cooperative bookstore cafe in the Kazimierz district. On offer coffees and teas from independed producents from all around the world.
+
+Webpage: http://ogniwo.org/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Paulińska 28, first floor, 31-065 Kraków](https://goo.gl/maps/Xhwzcabr9Wp) | Mon-Sun 16:00-22:00
 
 #### Coffee Corner
 
@@ -829,6 +856,17 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr) | Tue-Thu, Sun 20:00-01:00, Fri-Sat 20:00-2:00
 
 ## Braga
+
+#### Starbucks Braga
+
+> Starbucks coffee shop in the city center, with WiFi access and some tables to work. Calm and clean space.
+
+Webpage: http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portugal/detail/1021430
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Shopping Liberdade Street Fashion, Avenida da Liberdade, Braga, 4710-251](https://goo.gl/maps/oknJVz1HrS42) | Sun-Thu 8:00 - 23:00, Fri-Sat 08:00 - 01:00
+
 
 #### Jeronymo
 
@@ -1000,16 +1038,6 @@ Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
 ✔ | ✔ | ❄️/♨️ | [Largo Rafael Bordalo Pinheiro 29 R/C Lisboa](https://goo.gl/maps/Eho6a8ufqRQ2) | Mon-Wed 12-11pm & Thu-Sun 12pm-12am
 
-#### Strudel
-
-> It's central and at the same time quiet, has maybe the best Strudel in Lisbon.
-
-Webpage: http://4sq.com/IfaNBS
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Av. Miguel Bombarda, 5A Lisboa](https://goo.gl/maps/s2Hu3uxQcJM2) | Mon-Fri 07:30 - 19:00, Sat-Sun 08:00 - 19:00
-
 #### Tartine
 
 Webpage: http://tartine.pt/
@@ -1019,16 +1047,6 @@ Wifi | Power | Climatization | Address | Open Hours
 ✔ | ✔ | ❄️/♨️ | [R. Serpa Pinto 15A, 1200-026 Lisboa](https://goo.gl/maps/NNnXK6LkzFJ2) |
 
 ![](http://beta.speedtest.net/result/6628785269.png)
-
-#### Velocité Cafe
-
-> Awesome bike shop that has really good sandwiches and coffee (plus you get a discount if you arrive on a bike).
-
-Webpage: http://velocitecafe.com
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Av. Duque de Ávila 120A, 1050-084 Lisboa](https://goo.gl/maps/RRm5Qdx2k3u) |
 
 #### Wish - Slow Coffee House
 
@@ -1041,6 +1059,18 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [Rua Rodrigues Faria, 103 - Espaço G2 1300-501 Lisbon](https://goo.gl/maps/h5rSLnrrEmx) |
 
 ![](http://www.speedtest.net/result/5789565474.png)
+
+#### Mercearia do Campo
+
+> Great lunch menu, quiet all day (except lunch), friendly people and cosy atmosphere.
+
+Webpage: http://www.merceariadocampo.pt/en_GB/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua Saraiva de Carvalho - 115 R/C, 1250-242 Lisboa](https://goo.gl/maps/AX6XdBCy2bN2) | Mon-Thu 08:00 - 00:00, Fri-Sat 09:00 - 02:00
+
+![](http://www.speedtest.net/result/7297518934.png)
 
 ## Porto
 
@@ -1147,7 +1177,7 @@ Wifi | Power | Address | Open Hours
 
 #### Bread & Hearth
 
-> In the center of Keong Siak road, with plenty of coffee shops and restaurants. Awesome handcrafted artisan bread, and decent coffee. Crowded between 12 - 2pm. 
+> In the center of Keong Siak road, with plenty of coffee shops and restaurants. Awesome handcrafted artisan bread, and decent coffee. Crowded between 12 - 2pm.
 
 Webpage: http://breadandhearth.com/
 
@@ -1159,7 +1189,7 @@ Wifi | Power | Address | Open Hours
 
 #### Jimmy Monkey
 
-> Friendly to keyboard warriors, they also do a selection of simple-done-right munchies. 
+> Friendly to keyboard warriors, they also do a selection of simple-done-right munchies.
 
 Webpage: http://www.jimmymonkey.com/
 
@@ -1170,6 +1200,38 @@ Wifi | Power | Address | Open Hours
 # Slovenia 🇸🇮
 
 See https://github.com/otobrglez/awesome-workplaces-slovenia
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# South Korea 🇰🇷
+
+## Seoul
+
+#### Hollys Coffee, Line 9, Sinnonhyeon station
+
+> Extremely fast, stable internet, Power outlet on every seats, 24 Hours open
+>
+> I saw ASUS RT-AC68U WiFi Router
+>
+> Router connected with KT Giga Internet, which is fastest internet in South Korea (including oversea network access)
+>
+> Many seats and seat types (Sofa, Bar Stools...)
+>
+> Has Smoking Area
+
+Google Maps: https://goo.gl/maps/osWKar7YQfm
+
+Naver Map: http://naver.me/FjThMRso
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [478, Gangnam-daero, Gangnam-gu, Seoul, Republic of Korea](https://goo.gl/maps/osWKar7YQfm) | 24H, Everyday
+
+![](http://www.speedtest.net/result/7264247601.png)
+
+---------------------------------------------------------------
+---------------------------------------------------------------
 
 # Spain 🇪🇸
 
@@ -1218,7 +1280,7 @@ Webpage: http://federalcafe.es/barcelona-gotic/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | -------------- | -------
-✔ | ✔ | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) | 
+✔ | ✔ | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |
 
 ## Oviedo
 
@@ -1251,7 +1313,7 @@ Webpage: http://cafefatoljen.com
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔    | ✔     | Götgatan 14, 118 46 Stockholm, Sweden | 9–23 
+✔    | ✔     | Götgatan 14, 118 46 Stockholm, Sweden | 9–23
 
 #### Café Pascal
 
@@ -1261,7 +1323,7 @@ Webpage: https://cafepascal.se
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔    | Some  | Norrtullsgatan 4, 113 29 Stockholm, Sweden | 7–19 
+✔    | Some  | Norrtullsgatan 4, 113 29 Stockholm, Sweden | 7–19
 
 ## Uppsala
 
@@ -1282,9 +1344,9 @@ Wifi | Power | Address | Open Hours
 
 ## Zurich
 
-#### Boreal Coffee Shop - Talacker 
+#### Boreal Coffee Shop - Talacker
 
-> Very nice coffee, spacious, good tables to work and a bunch of couches. 
+> Very nice coffee, spacious, good tables to work and a bunch of couches.
 
 Webpage: http://www.borealcoffee.ch/
 
@@ -1395,6 +1457,17 @@ Wifi| Power  | Address | Open Hours
 Wifi| Power  | Address | Open Hours
 ----|-------|--------|---------|----------
   ✔ | ✔| [34 Washington Blvd, Venice, CA 90292](https://goo.gl/maps/Swe3G5wnFuy) |6AM - 9PM
+
+### San Diego, CA <a id="san-diego-ca"></a>
+
+#### Vinaka Cafe
+
+> Very Californian and laid back. Common spot for locals with wonderful food
+> and ice cream. 
+
+Wifi | Power  | Address | Open Hours
+-----|-------|--------|---------|----------
+  ✔ | ✔ | [300 Carlsbad Village Dr #211, Carlsbad, CA 92008](https://goo.gl/maps/x9ReUJVpnYD2) | 7AM - 10PM
 
 ### Mountain View, CA <a id="mountain-view-ca"></a>
 
@@ -1579,6 +1652,20 @@ Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/maps/gKjnLGtTYE62) | Mon-Fri 07:00-19:00
 
+##South Carolina
+
+###Columbia, South Carolina <a id="columbia-sc-"></a>
+
+#### Yoghut
+
+> Great coffee, acai bowls and bubble tea. Never crowded or noisy either so its good if you enjoy peace and quite for hacking.
+
+Webpage: https://yoghut.com/
+
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✔ | ❄️/♨️ | [601 Main St, Columbia, SC 29201](https://goo.gl/maps/CPWuqG7QcVH2) | Mon-Sat 9:30AM-11PM, Sun 10:30AM-1PM
+
 ## Texas
 
 ### Austin, TX
@@ -1605,7 +1692,7 @@ Webpage: https://aws.amazon.com/start-ups/loft/ny-loft/
 
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | -------| ------- | ----------
-open, password on wall | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm 
+open, password on wall | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm
 
 #### Ground Support Cafe
 > Great spot in Soho for getting things done and feeling like you belong with the cool soho crowd
@@ -1624,6 +1711,20 @@ Webpage: http://www.pushcartcoffee.com/
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | -------| ------- | ----------
 open, password on Wall | ✔ | ✔  | [401 W 25th St, New York, NY 10001](https://goo.gl/maps/52PdznrXbsF2) | Open Monday - Friday, 7:00am - 8:30pm Saturday - Sunday, 8:00am - 7:30pm |
+
+## Virginia <a id="virginia"></a>
+
+### Richmond, VA <a id="richmond-va"></a>
+
+#### Ironclad Coffee
+
+> Lots of small and large tables, free fast wifi, plenty of power, and some of the best coffee in Richmond.
+
+Webpage: https://ironcladcoffee.com/
+
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+open, password on wall | ✔ | ❄️/♨️ | [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432) | Open Monday - Friday, 7:00am - 6:00pm Saturday 8:00am - 6:00pm Closed Sundays |
 
 ## Washington <a id="washington"></a>
 
