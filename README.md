@@ -86,6 +86,7 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
     - [Mountain View, CA <a id="mountain-view-ca"></a>](#mountain-view-ca-)
     - [Oakland, CA <a id="oakland-ca"></a>](#oakland-ca-)
     - [Palo Alto, CA <a id="palo-alto-ca"></a>](#palo-alto-ca-)
+    - [San Francisco, CA](#san-francisco-ca)
     - [San Jose, CA](#san-jose-ca)
     - [Santa Monica, CA <a id="santa-monica-ca"></a>](#santa-monica-ca-)
   - [Illinois](#illinois)
@@ -176,6 +177,16 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [Av Louise, 146 1050 Brussels](https://goo.gl/maps/hsGKR1Ytn6N2) | Mon-Sun 8:00-19:00
 
 ![](http://www.speedtest.net/result/6022204011.png)
+
+#### Hackerspace Brussels (HSBXL)
+
+> Hackerspace Brussels (HSBXL) is a space, dedicated to various aspects of constructive & creative hacking. The space is about 300 square meters, there is a little electronics lab with over 9000 components, a library, and lots of tools. You're always welcome to follow one of the workshops or come to the weekly Tuesday meetings, hack nights or other get-together events.
+
+Webpage: https://hsbxl.be/
+
+Wifi | Power  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✔ | [Rue des Goujons 152, 1070 Brussels](https://goo.gl/maps/7UqJcxPrsar) | Tue 19:00-00:00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -430,7 +441,7 @@ Wifi | Power | Address | Open Hours
 
 > A weird old hackspace that masquerades as an alien ship, or vice versa. Good for hacking in dark corners with lots of Club Mate. Non-smoker not friendly. You may need a member to let you in, or to stay for a longer period of time.
 
-Webpage: https://www.c-base.org/  
+Webpage: https://www.c-base.org/
 Wikipedia: https://en.wikipedia.org/wiki/C-base
 
 Wifi | Power | Address | Open Hours
@@ -856,6 +867,19 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr) | Tue-Thu, Sun 20:00-01:00, Fri-Sat 20:00-2:00
 
 ## Braga
+
+#### Nórdico Coffee Shop & Brunch
+
+> Specialty coffee and brunch in the city center. Calm, clean, great food, even
+> better coffee.
+
+Webpage: https://www.facebook.com/Nordicocoffeeshop/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [R. do Anjo 90A, 4700-305 Braga](https://goo.gl/maps/L2yeswCyJoG2) | Mon: 12-19h, Wed-Sat: 10h30-19h, Sun: 11-17h
+
+![](http://www.speedtest.net/result/7911413495.png)
 
 #### Starbucks Braga
 
@@ -1477,7 +1501,7 @@ Wifi | Power | Address | Open Hours
 #### Vinaka Cafe
 
 > Very Californian and laid back. Common spot for locals with wonderful food
-> and ice cream. 
+> and ice cream.
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -1523,6 +1547,49 @@ Webpage: http://hanahaus.com/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
   ✔ | ✔| [456 University Ave, Palo Alto, CA 94301](https://goo.gl/maps/B2Q66N7tdvP2) | Mon-Fri 7:00-19:00, Sat-Sun 8:00-19:00
+
+#### Backyard Brew
+
+> Outdoor caffee in backyard with tents to shelter you from sun/rain. Open all-year round.
+
+Webpage: https://aoccoffee.com/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+  ✔ | ✔ | great | [444 California Ave, Palo Alto, CA 94301](https://goo.gl/maps/8hugtvc2vUM2) | Mon-Sat 8:00-17:00, Sun 8:00-15:00
+
+![](https://www.speedtest.net/result/7995445392.png)
+
+### San Francisco, CA <a id="san-francisco-ca"></a>
+
+#### Coffee Bar
+
+> Big and spacious space with many seats, lots of plugs, not that great WiFi. During summer it may get quiet hot as no AC/good air flow.
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+  ✔ | ✔| [1890 Bryant St, San Francisco, CA 94110](https://goo.gl/maps/6i2sppYKZ2P2) | Mon-Fri 7:30-16:00, Sat 8:00-16:00, Sun 10:00-16:00
+
+#### Sightglass Coffee
+
+> Even though no-wifi and no power plugs, still worth visiting because it is very vibrant space, with cool vibe.
+
+Webpage: https://sightglasscoffee.com/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+Nope | Nope | [270 7th St, San Francisco, CA 94103](https://goo.gl/maps/Lr63kJgk43M2) | Mon-Sun 7:00-19:00
+
+#### Black Hammer Brewing
+
+> If you are "over-coffeed" you can try this great brewery with lot of craft beers on tap. Very work-friendly (USB ports, staff will borrow even cables for charching etc). In the evening it gets quiet busy.
+
+Webpage: https://blackhammerbrewing.com
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [544 Bryant St, San Francisco, CA 94107](https://goo.gl/maps/8VoTSniJ5FC2) | Mon-Sun 12:00-23:00
+
 
 ### San Jose, CA
 
@@ -1788,4 +1855,4 @@ ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQ
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ask | ✔ | [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
- 
+
