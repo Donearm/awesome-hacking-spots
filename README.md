@@ -827,6 +827,16 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Paulińska 28, first floor, 31-065 Kraków](https://goo.gl/maps/Xhwzcabr9Wp) | Mon-Sun 16:00-22:00
 
+#### Coffee Corner
+
+> Good coffee and tea, right in the middle of the main railway station. Can get busy but usually not very loud. Plenty of electrical plugs available.
+
+Webpage: http://www.coffeecorner.pl/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Pawia 5a, 31-154 Kraków](https://goo.gl/maps/XkhhquuUZ252) | Mon-Sun 05:00-22:00
+
 ## Gliwice
 
 #### Kafo
