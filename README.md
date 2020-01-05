@@ -42,6 +42,7 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 - [Japan 🇯🇵](#japan-)
   - [Nagoya](#nagoya)
   - [Tokyo](#tokyo)
+  - [Kyoto](#kyoto)
 - [Lithuania 🇱🇹](#lithuania-)
   - [Vilnius](#vilnius)
 - [Netherlands 🇳🇱](#netherlands-)
@@ -97,6 +98,8 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
     - [Boston, MA <a id="boston-ma"></a>](#boston-ma-)
     - [Cambridge, MA <a id="cambridge-ma"></a>](#cambridge-ma-)
     - [Somerville, MA <a id="somerville-ma"></a>](#somerville-ma-)
+  - [Minnesota <a id="minnesota"></a>](#minnesota-)
+    - [Minneapolis, MN <a id="minneapolis-mn"></a>](#minneapolis-mn-)
   - [South Carolina <a id="south-carolina"></a>](#south-carolina-)
     - [Columbia, SC <a id="columbia-sc"></a>](#columbia-sc-)
   - [Texas](#Texas)
@@ -630,6 +633,18 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5787230824.png)
 
+## Kyoto
+
+#### Mos Cafe
+
+> Nice cafe where they don't mind if you stay for the whole day. The wifi is so so but you can buy wi2 premium for 3$/6h.
+
+Webapage: https://www.mos.jp/shop/detail/02388/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [〒604-8162 Kyoto, Nakagyō-ku, Shichikannoncho, 烏丸通六角下る253-1 読売京都ビル](https://goo.gl/maps/7fMyyAVBkmWomHM17) | Daily: 10:00-21:00
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
@@ -1122,6 +1137,17 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [R. da Firmeza 575, Porto, Portugal](https://goo.gl/maps/wpxTd6PzQEw) | Mon 12:30pm - 1:00am, Tue-Sun 10:00am - 1:00am
 
 ![](http://www.speedtest.net/result/5468130872.png)
+
+#### Costa COFFEE
+> Influencer vibes, great coffee, english fiendly, accepts AliPay and has nice croissants.
+
+Webpage: https://https://www.costa.co.uk/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Praça dos Clérigos, Rua de São felipe de Nery, 4050-162 Porto](https://goo.gl/maps/ehNhrXQH3bXDyMjA8) | Mon-Sun 09:00am - 00:00pm
+
+![](https://www.speedtest.net/result/8644645756.png)
 
 #### Duas de Letra
 
@@ -1751,6 +1777,20 @@ Webpage: http://www.forgebakingco.com/
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/maps/gKjnLGtTYE62) | Mon-Fri 07:00-19:00
+
+## Minnesota <a id="minnesota"></a>
+
+### Minneapolis, MN <a id="minneapolis-mn-"></a>
+
+#### Peace Coffee
+
+> Good coffee and food options, big tables and a community room available
+
+Webpage: https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+open | ✔ | ✔ | [3262 Minnehaha Ave, Minneapolis, MN 55406](https://goo.gl/maps/YaHLw8SkRLtYhG9q6) | Mon-Fri 06:30AM-08:00PM, Sat 07:00AM-08:00PM, Sun 8:00AM-8:00PM
 
 ## South Carolina <a id="south-carolina-"></a>
 
